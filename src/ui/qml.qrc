@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>console/console.qml</file>
+        <file>qml/Fader.qml</file>
+        <file>qml/BaseControllerWidget.qml</file>
+        <file>qml/fader.svg</file>
+        <file>qml/utils.js</file>
+        <file>qml/faderPath.svg</file>
+        <file>qml/faderPathBottom.svg</file>
+        <file>qml/faderPathTop.svg</file>
+    </qresource>
+</RCC>
